@@ -17,6 +17,7 @@ My Python learning journey and practice projects.
 - Pass/Fail Program
 - Number Guessing Game
 - Loop Practice
+- pracitce
 
 ## Goal
 
